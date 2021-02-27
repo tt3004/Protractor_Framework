@@ -1,4 +1,4 @@
-# bank-pageobjects-protractor
+# Protractor Framework
 
 Automating a sample bank application, which is an angularJS website.
 Implemented Page Object Model to create a robust test automation suite.
