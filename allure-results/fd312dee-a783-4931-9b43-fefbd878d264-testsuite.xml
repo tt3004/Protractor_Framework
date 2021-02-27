@@ -1,0 +1,73 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514137574878' stop='1514137581717'>
+    <name>Bank Manager Login Test - </name>
+    <title>Bank Manager Login Test - </title>
+    <test-cases>
+        <test-case start='1514137574879' status='passed' stop='1514137581048'>
+            <name>should login as bank manager</name>
+            <title>should login as bank manager</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='590fe632-42eb-4f47-bd55-b25ad8ec44b9-attachment.png' type='image/png' size='37566'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514137581048' status='failed' stop='1514137581388'>
+            <name>should add a customer</name>
+            <title>should add a customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d76cbd42-05ac-4323-9c70-5eb1d96787ad-attachment.png' type='image/png' size='37566'/>
+            </attachments>
+            <failure>
+                <message>Failed: alert.accept is not a function</message>
+                <stack-trace>TypeError: alert.accept is not a function
+                    at UserContext.&lt;anonymous> (/Users/trupti/WebstormProjects/BankPageObjects/test_spec/BankManagerLogin_spec.js:37:15)
+                    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:112:25
+                    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)
+                    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)
+                    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)
+                    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)
+                    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at &lt;anonymous>
+                From: Task: Run it("should add a customer") in control flow
+                    at UserContext.&lt;anonymous> (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)
+                    at attempt (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)
+                    at QueueRunner.run (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)
+                    at QueueRunner.execute (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)
+                    at Spec.queueRunnerFactory (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)
+                    at Spec.execute (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:526:10)
+                    at UserContext.fn (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5340:37)
+                    at attempt (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)
+                    at QueueRunner.run (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)
+                    at runNext (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (/Users/trupti/WebstormProjects/BankPageObjects/test_spec/BankManagerLogin_spec.js:26:5)
+                    at addSpecsToSuite (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)
+                    at Env.describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)
+                    at describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (/Users/trupti/WebstormProjects/BankPageObjects/test_spec/BankManagerLogin_spec.js:1:63)
+                    at Module._compile (module.js:635:30)
+                    at Object.Module._extensions..js (module.js:646:10)
+                    at Module.load (module.js:554:32)
+                    at tryModuleLoad (module.js:497:12)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1514137581388' status='passed' stop='1514137581717'>
+            <name>should open an account</name>
+            <title>should open an account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e9fb1ecd-2cb1-4294-8876-d561976e7143-attachment.png' type='image/png' size='37566'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

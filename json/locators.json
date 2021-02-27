@@ -1,0 +1,55 @@
+{
+  "URL": {
+          "loginPageURL": "http://www.way2automation.com/angularjs-protractor/banking/#/login",
+          "customerPageURL": "http://www.way2automation.com/angularjs-protractor/banking/#/customer",
+          "bankManagerPageURL": "http://www.way2automation.com/angularjs-protractor/banking/#/manager"
+         },
+  "LoginPage": {
+                "Cust_Btn_Text": "Customer Login",
+                "Bank_Mgr_ngClick": "manager()"
+                },
+  "BankMgrHomePage": {
+                      "Add_Cust_Btn_ngClick": "addCust()",
+                      "FirstName_ngModel":"fName",
+                      "LastName_ngModel":"lName",
+                      "PostCode_ngModel":"postCd",
+                      "AddCust_Btn_css": ".btn.btn-default",
+
+                      "Open_Acc_ngClick": "openAccount()",
+                      "Cust_DropDown_ngModel": "custId",
+                      "Currency_DropDown_ngModel": "currency",
+                      "Process_btn_text":"Process",
+
+                      "Show_Cust_ngClick": "showCust()",
+                      "SearchBar_ngModel": "searchCustomer",
+                      "Customer_Loop": "cust in Customers",
+
+                      "Delete_btn_text": "Delete"
+                     },
+  "CustomerActionPage": {
+                          "cust_dropdown_ngModel":"custId",
+                          "Login_Btn_Text": "Login",
+                          "Name_validate_css": "span.fontBig.ng-binding"
+                        },
+  "Deposit": {
+                "Deposit_btn_ngClick": "deposit()",
+                "Deposit_Amt_ngModel": "amount",
+                "Deposit_Btn_CSS": "button.btn.btn-default",
+                "Acc_no_id": "accountSelect",
+                "Deposit_Status_CSS": "span.error.ng-binding",
+                "Deposit_Balance": "strong.ng-binding"
+             },
+  "Withdrawl": {
+                  "Withdraw_Btn_ngClick": "withdrawl()",
+                  "Withdraw_Amt_ngModel": "amount",
+                  "Acc_no_id": "accountSelect",
+                  "Withdraw_Btn_CSS": "button.btn.btn-default",
+                  "Withdraw_Status_CSS": "span.error.ng-binding",
+                  "Withdraw_Balance": "strong.ng-binding"
+               },
+  "Transactions": {
+                    "Trans_Btn_ngClick":"transactions()",
+                    "Trans_Loop":"tx in transactions | orderBy:sortType:sortReverse | sDate:startDate:end"
+                  }
+
+}

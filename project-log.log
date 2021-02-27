@@ -1,0 +1,494 @@
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:12:51.887Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:12:56.582Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:14:13.088Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-23T23:14:17.489Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:14:17.494Z"}
+{"level":"info","message":"Expecting in-correct title","timestamp":"2017-12-23T23:14:19.847Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:15:20.294Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-23T23:15:24.621Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:15:24.630Z"}
+{"level":"info","message":"Expecting in-correct title","timestamp":"2017-12-23T23:15:27.479Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:17:20.069Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-23T23:17:24.450Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:17:24.930Z"}
+{"level":"info","message":"Expecting in-correct title","timestamp":"2017-12-23T23:17:27.435Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-24T00:48:28.108Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-24T00:48:32.662Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-24T00:48:33.179Z"}
+{"level":"info","message":"Expecting in-correct title","timestamp":"2017-12-24T00:48:35.555Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-24T00:49:07.004Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-24T00:49:12.249Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-24T01:04:39.931Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-24T01:04:44.035Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-24T01:28:53.639Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-24T01:28:57.588Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T06:46:34.074Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T06:46:34.080Z"}
+{"level":"info","message":"validating the page title to be Protractor","timestamp":"2017-12-24T06:46:34.081Z"}
+{"level":"info","message":"adding the customer info","timestamp":"2017-12-24T06:46:40.420Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T06:51:44.880Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T06:51:44.885Z"}
+{"level":"info","message":"validating the page title to contain Protractor","timestamp":"2017-12-24T06:51:44.886Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T06:51:51.352Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T06:56:23.960Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T06:56:23.965Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T06:56:23.967Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T06:56:29.930Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T06:56:29.930Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T06:56:29.931Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T06:58:50.233Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T06:58:50.237Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T06:58:50.238Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T06:58:56.001Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T06:58:56.002Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T06:58:56.006Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T07:02:56.548Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T07:02:56.552Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T07:02:56.554Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T07:03:15.068Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T07:03:15.068Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T07:03:29.781Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T07:03:29.783Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T07:03:29.784Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T07:03:35.479Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T07:03:35.479Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T07:05:06.380Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T07:05:06.383Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T07:05:06.385Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T07:05:12.071Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T07:05:12.071Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T07:05:12.072Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:42:11.760Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:42:11.764Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:42:11.765Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:43:00.746Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:43:00.749Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:43:00.751Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:43:06.747Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:43:06.747Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T17:43:06.747Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:45:05.312Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:45:05.316Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:45:05.320Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:45:11.421Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:45:11.422Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T17:45:11.422Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:46:14.883Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:46:14.885Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:46:14.886Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:46:21.050Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:46:21.050Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:47:28.261Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:47:28.264Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:47:28.265Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:47:34.196Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:47:34.196Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T17:47:34.197Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:48:37.549Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:48:37.552Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:48:37.553Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:48:44.050Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:48:44.050Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T17:48:44.051Z"}
+{"level":"info","message":"New Customertrupti added with Customer Id: Customer added successfully with customer id :6","timestamp":"2017-12-24T17:48:45.097Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:49:56.461Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:49:56.463Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:49:56.465Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:50:02.001Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:50:02.001Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T17:50:02.002Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T17:50:03.004Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T20:27:50.905Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:27:50.906Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:29:59.554Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:30:09.393Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:31:46.314Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:32:33.897Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T20:35:07.935Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T20:35:07.938Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T20:35:07.939Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T20:35:13.046Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:35:13.047Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T20:35:14.524Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:35:14.524Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T20:38:36.037Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T20:38:36.039Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T20:38:36.040Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T20:38:39.835Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T20:38:40.777Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T20:38:41.289Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T20:38:42.224Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T20:57:43.782Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T20:57:43.784Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T20:57:43.785Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T20:57:47.591Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T20:57:48.645Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T20:57:49.163Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T20:57:49.944Z"}
+{"level":"info","message":"Searching the customer Cust001","timestamp":"2017-12-24T20:57:50.457Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:00:15.249Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:00:15.252Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:00:15.254Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:00:18.758Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:00:19.709Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:00:20.236Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T21:00:21.109Z"}
+{"level":"info","message":"Searching the customer Cust001","timestamp":"2017-12-24T21:00:21.625Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:00:58.290Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:00:58.292Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:00:58.293Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:01:01.794Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:01:02.751Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:01:03.276Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T21:01:04.066Z"}
+{"level":"info","message":"Searching the customer Cust001","timestamp":"2017-12-24T21:01:04.583Z"}
+{"level":"info","message":"Customer validated successfully","timestamp":"2017-12-24T21:01:04.585Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:02:31.621Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:02:31.623Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:02:31.624Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:02:35.729Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:02:36.767Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:02:37.280Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T21:02:38.181Z"}
+{"level":"info","message":"Searching the customer Milky","timestamp":"2017-12-24T21:02:38.710Z"}
+{"level":"info","message":"Customer validated successfully","timestamp":"2017-12-24T21:02:38.711Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:03:39.226Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:03:39.228Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:03:39.229Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:03:43.224Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:03:44.146Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:03:44.719Z"}
+{"level":"info","message":"Searching the customer trupti","timestamp":"2017-12-24T21:03:50.606Z"}
+{"level":"info","message":"Customer validated successfully","timestamp":"2017-12-24T21:03:50.607Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:04:31.799Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:04:31.801Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:04:31.802Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:04:35.995Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:04:36.947Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:04:37.462Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T21:04:38.244Z"}
+{"level":"info","message":"Searching the customer trupti","timestamp":"2017-12-24T21:04:38.766Z"}
+{"level":"info","message":"Customer validated successfully","timestamp":"2017-12-24T21:04:38.768Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:07:35.068Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:07:35.070Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:07:35.071Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:07:38.616Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:07:39.645Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:07:40.169Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T21:07:41.068Z"}
+{"level":"info","message":"Searching the customer trupti","timestamp":"2017-12-24T21:07:41.583Z"}
+{"level":"info","message":"Customer validated successfully","timestamp":"2017-12-24T21:07:41.585Z"}
+{"level":"info","message":"Customer deleted successfully","timestamp":"2017-12-24T21:07:42.502Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:17:53.065Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:17:53.068Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:23:00.844Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:23:00.846Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:24:35.304Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:24:35.315Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:26:16.500Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:26:16.502Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:27:08.362Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:27:08.364Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:27:08.365Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:29:20.275Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:29:20.277Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:29:20.278Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:30:23.166Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:30:23.169Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:30:23.170Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:31:30.843Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:31:30.845Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:31:30.846Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:31:40.202Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:31:40.204Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:31:40.205Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:32:44.937Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:32:44.939Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:32:44.940Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:34:34.213Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:34:34.215Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:34:34.216Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:37:51.006Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:37:51.009Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:37:51.010Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:38:54.644Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:38:54.646Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:38:54.647Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:39:15.194Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:39:15.197Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:39:15.198Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:39:50.551Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:39:50.553Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:39:50.553Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:40:23.923Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:40:23.926Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:40:23.926Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:40:37.961Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:40:37.963Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:40:37.964Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:41:10.995Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:41:10.997Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:41:10.998Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:41:33.853Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:41:33.855Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:41:33.856Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:41:49.624Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:41:49.625Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:41:49.626Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:45:51.940Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:45:51.942Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:45:51.943Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:46:40.090Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:46:40.095Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:46:40.097Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-24T22:46:44.233Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T22:48:04.026Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-24T22:48:04.028Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-24T22:48:04.029Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-24T22:48:07.681Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:14:36.227Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:14:36.229Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:14:36.230Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:14:40.304Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:16:16.233Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:16:16.236Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:16:16.238Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:16:20.617Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:16:21.713Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:22:56.725Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:22:56.727Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:22:56.728Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:23:01.931Z"}
+{"level":"info","message":"current balance: [object Object]","timestamp":"2017-12-25T01:23:02.293Z"}
+{"level":"info","message":"balance after deposit = deposit_amt + current_bal 500[object Object]","timestamp":"2017-12-25T01:23:02.295Z"}
+{"level":"info","message":"balance after deposit: [object Object]","timestamp":"2017-12-25T01:23:02.295Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:23:03.124Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:24:53.723Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:24:53.726Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:24:53.727Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:24:58.147Z"}
+{"level":"info","message":"current balance: 1001","timestamp":"2017-12-25T01:24:58.544Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:24:59.249Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:25:29.946Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:25:29.948Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:25:29.949Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:25:33.859Z"}
+{"level":"info","message":"current balance: 1001","timestamp":"2017-12-25T01:25:34.413Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:25:35.173Z"}
+{"level":"info","message":"balance after deposit = deposit_amt + current_bal 500undefined","timestamp":"2017-12-25T01:25:35.215Z"}
+{"level":"info","message":"balance after deposit: 1002","timestamp":"2017-12-25T01:25:35.215Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:28:36.152Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:28:36.153Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:28:36.154Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:28:40.088Z"}
+{"level":"info","message":"current balance: 1001","timestamp":"2017-12-25T01:28:40.506Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:28:41.194Z"}
+{"level":"info","message":"balance after deposit = deposit_amt + current_bal 500undefined","timestamp":"2017-12-25T01:28:41.220Z"}
+{"level":"info","message":"balance after deposit: 1002","timestamp":"2017-12-25T01:28:41.220Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:32:06.657Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:32:06.659Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:32:06.660Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:32:10.839Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:33:36.145Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:33:36.146Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:33:36.147Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:33:40.270Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:33:40.798Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:33:41.510Z"}
+{"level":"info","message":"balance after deposit = deposit_amt + current_bal 500undefined","timestamp":"2017-12-25T01:33:41.538Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:33:41.539Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:35:49.815Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:35:49.817Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:35:49.818Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:35:53.954Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:35:54.485Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:35:55.205Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:35:55.239Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:36:58.546Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:36:58.550Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:36:58.551Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:37:02.771Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:37:03.346Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:37:10.365Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:37:10.392Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:40:32.140Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:40:32.142Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:40:32.143Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:40:35.924Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:40:36.550Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:40:37.372Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:40:37.400Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:40:57.811Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:40:57.813Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:40:57.813Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:41:01.540Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:41:01.941Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:41:02.743Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:41:02.773Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:42:16.251Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:42:16.254Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:42:16.255Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:42:19.899Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:42:20.470Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:42:21.298Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:42:21.327Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:43:56.681Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:43:56.684Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:43:56.685Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:44:00.425Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:44:00.967Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:44:01.684Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:44:01.711Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:45:12.017Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:45:12.019Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:45:12.020Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:45:15.650Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:45:16.170Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:45:16.865Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:45:16.893Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:45:48.736Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:45:48.738Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:45:48.739Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:45:52.647Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:45:53.168Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:45:53.994Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:45:54.023Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:47:03.369Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:47:03.372Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:47:03.373Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:47:07.344Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:47:07.861Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:47:08.549Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:47:08.575Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:49:28.099Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:49:28.101Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:49:28.102Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:49:31.763Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:49:32.324Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:49:33.123Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:49:33.150Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:50:49.459Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:50:49.461Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:50:49.462Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:50:53.169Z"}
+{"level":"info","message":"balance after deposit: undefined","timestamp":"2017-12-25T01:50:53.710Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:50:53.746Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:50:54.446Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:51:32.716Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:51:32.718Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:51:32.719Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:51:37.011Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:51:37.566Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:51:38.272Z"}
+{"level":"info","message":"balance after deposit: undefined","timestamp":"2017-12-25T01:51:38.273Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:53:59.310Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:53:59.312Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:53:59.313Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:54:03.562Z"}
+{"level":"info","message":"Depositing the money: 500","timestamp":"2017-12-25T01:54:04.073Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:54:04.110Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:54:04.810Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:54:04.842Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:54:26.743Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:54:26.745Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:54:26.747Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:54:30.525Z"}
+{"level":"info","message":"Depositing the money: 500","timestamp":"2017-12-25T01:54:31.019Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:54:31.056Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:54:31.763Z"}
+{"level":"info","message":"balance after deposit: Pound","timestamp":"2017-12-25T01:54:31.797Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:55:02.974Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:55:02.976Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:55:02.977Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:55:06.679Z"}
+{"level":"info","message":"Depositing the money: 500","timestamp":"2017-12-25T01:55:07.170Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T01:55:07.205Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:55:07.911Z"}
+{"level":"info","message":"balance after deposit: 1002","timestamp":"2017-12-25T01:55:07.947Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:56:09.977Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:56:09.979Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:56:09.980Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:56:13.956Z"}
+{"level":"info","message":"Depositing the money: 500","timestamp":"2017-12-25T01:56:14.483Z"}
+{"level":"info","message":"current balance: 500","timestamp":"2017-12-25T01:56:15.198Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:56:15.239Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:56:15.265Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T01:57:51.117Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T01:57:51.120Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T01:57:51.120Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T01:57:54.888Z"}
+{"level":"info","message":"Depositing the money: 500","timestamp":"2017-12-25T01:57:55.394Z"}
+{"level":"info","message":"current balance: 500","timestamp":"2017-12-25T01:57:56.232Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T01:57:56.271Z"}
+{"level":"info","message":"balance after deposit: 500","timestamp":"2017-12-25T01:57:56.299Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T02:12:57.545Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T02:12:57.546Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T02:12:57.547Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T02:13:01.320Z"}
+{"level":"info","message":"Depositing the money: 500","timestamp":"2017-12-25T02:13:01.717Z"}
+{"level":"info","message":"current balance: 500","timestamp":"2017-12-25T02:13:02.414Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T02:13:02.454Z"}
+{"level":"info","message":"Withdrawing the money: 500","timestamp":"2017-12-25T02:13:02.799Z"}
+{"level":"info","message":"current balance: 0","timestamp":"2017-12-25T02:13:03.364Z"}
+{"level":"info","message":"Withdrawal Status: Transaction successful","timestamp":"2017-12-25T02:13:03.398Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T02:14:13.297Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T02:14:13.299Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T02:14:13.300Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T02:14:17.043Z"}
+{"level":"info","message":"Depositing the money: 500","timestamp":"2017-12-25T02:14:17.616Z"}
+{"level":"info","message":"current balance: 5096","timestamp":"2017-12-25T02:14:17.654Z"}
+{"level":"info","message":"Deposit Status: Deposit Successful","timestamp":"2017-12-25T02:14:18.407Z"}
+{"level":"info","message":"Withdrawing the money: 500","timestamp":"2017-12-25T02:14:18.745Z"}
+{"level":"info","message":"current balance: 5596","timestamp":"2017-12-25T02:14:18.769Z"}
+{"level":"info","message":"Withdrawal Status: Transaction successful","timestamp":"2017-12-25T02:14:19.350Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:02:17.619Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:02:17.622Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:02:17.622Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:02:21.692Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:03:13.094Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:03:13.097Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:03:13.097Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:03:17.008Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:04:31.805Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:04:31.807Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:04:31.808Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:04:36.407Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:06:51.147Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:06:51.149Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:06:51.151Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:06:54.980Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:08:55.419Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:08:55.423Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:08:55.424Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:09:01.218Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:14:00.902Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:14:00.904Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:14:00.904Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:14:05.082Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:16:14.845Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:16:14.847Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:16:14.848Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:16:18.775Z"}
+[]
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:17:10.681Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:17:10.683Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:17:10.684Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:17:14.429Z"}
+["Jan 1, 2015 12:00:00 AM 30 Credit","Jan 1, 2015 12:00:00 AM 4 Debit","Jan 2, 2015 12:00:00 AM 30 Credit","Jan 2, 2015 12:00:00 AM 4 Debit","Jan 3, 2015 12:00:00 AM 30 Credit","Jan 3, 2015 12:00:00 AM 4 Debit","Jan 4, 2015 12:00:00 AM 30 Credit","Jan 4, 2015 12:00:00 AM 4 Debit","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:18:47.934Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:18:47.936Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:18:47.937Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:18:51.556Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:19:44.928Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:19:44.930Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:19:44.930Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:19:48.857Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:21:31.321Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:21:31.323Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:21:31.323Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:21:35.156Z"}
+{"level":"info","message":"Jan 1, 2015 12:00:00 AM 30 Credit","timestamp":"2017-12-25T04:21:36.343Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-25T04:25:18.278Z"}
+{"level":"info","message":"creating the reference of customer action page","timestamp":"2017-12-25T04:25:18.281Z"}
+{"level":"info","message":"Hermoine Granger logged in successfully","timestamp":"2017-12-25T04:25:18.282Z"}
+{"level":"info","message":"Hermoine Granger validated successfully","timestamp":"2017-12-25T04:25:22.033Z"}

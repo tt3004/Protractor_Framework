@@ -1,0 +1,29 @@
+{
+  "LoginPage": {
+                "Page_Title_Text": "Protractor"
+               },
+  "BankMgrHomePage": {
+                      "FirstName": "trupti",
+                      "LastName": "Nande",
+                      "PostCode": "28262",
+
+                      "CustomerName": "trupti Nande",
+                      "Currency": "Dollar",
+
+                      "Search_Cust_Name": "trupti"
+                     },
+  "CustomerActionPage": {
+                          "Customer_Name": "Hermoine Granger"
+                        },
+  "Deposit": {
+                "Successful_Status": "Deposit Successful",
+                "Deposit_Amount": "500",
+                "Deposit_A/C_Num": "1001"
+             },
+  "Withdraw": {
+                "Successful_Status": "Transaction Successful",
+                "Withdraw_Amount": "500",
+                "Withdraw_A/C_Num": "1001"
+              }
+
+}
